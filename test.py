@@ -1,3 +1,3 @@
-import pygame
+import pygamedd
 
 coolio
